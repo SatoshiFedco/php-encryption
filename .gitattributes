@@ -5,3 +5,316 @@
 /psalm.xml export-ignore
 /test.sh export-ignore
 /test export-ignore
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\AL3WARD> DS;\LKGVB
+DS : The term 'DS' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ DS;\LKGVB
++ ~~
+    + CategoryInfo          : ObjectNotFound: (DS:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+\LKGVB : The term '\LKGVB' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:4
++ DS;\LKGVB
++    ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\LKGVB:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\AL3WARD> [AJFDB
+At line:1 char:7
++ [AJFDB
++       ~
+Missing ] at end of attribute or type literal.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : EndSquareBracketExpectedAtEndOfAttribute
+
+PS C:\Users\AL3WARD> \OPKP[]VFDAPJHBP\JM:<NI\XCJHV:"Smd bvkf\dap\ovjmn:L"NV\:MNsdbvjmc;lSKJMV"SNdhbv\poJNMKFDSHBJ FOI0]Q= 8BERHGV[=]Qwj
+>>
+>>
+>>
+>>
+>>
+>>
+>>  eqdahospv
+>> dsaf i
+>> bg=p
+>> ]fds\l
+>> ]df
+>> bp=wfrkn
+>> kjgfr
+>> hbikjd
+>> nb jgfsodp-
+>> jfdsuhb9
+>> 0]aoifd ujsegds
+>> bgodraujfg9i ujb
+>> eda8i0rg ujb9i0d ujhg
+>> -ujb
+>> eqa-d ugrjjhvfr9oi0q ugt
+>> `ugugugf9wiufj
+>> gv0-d ikf[=o 9o-r
+>> g9ufdsa;l'ce
+>> R`3UYW-=
+>> OLEQW
+>>
+>>
+>>
+>>
+>> FS[DLPBGK
+>> SDGVKP
+>> ]SDL[]Vs
+>> [fdkvjm
+>> 'FDM
+>> O[JBK
+>> FDSOLAP
+>> ]kfds
+>> kjbv]s[k,d
+>> o[jmbv
+>> fdsvo[sMVdnv j
+>> kdsPD;KMVPDSJNV
+>> [\kdspovfdsoi0]vfjds[\vfpokm|E;LFMVDJVCO[FMV;LKDSMNVPISJH
+>> VC["DSkjmvjv
+\OPKP[]VFDAPJHBP\JM:<NI\XCJHV:Smd bvkf\dap\ovjmn:LNV\:MNsdbvjmc : The term '\OPKP[]VFDAPJHBP\JM:<NI\XCJHV:Smd bvkf\dap\ovjmn:LNV\:MNsdbvjmc' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a
+path was included, verify that the path is correct and try again.
+At line:1 char:1
++ \OPKP[]VFDAPJHBP\JM:<NI\XCJHV:"Smd bvkf\dap\ovjmn:L"NV\:MNsdbvjmc;lSK ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\OPKP[]VFDAPJHB...:LNV\:MNsdbvjmc:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+lSKJMVSNdhbv\poJNMKFDSHBJ FOI0]Q= 8BERHGV[=]Qwj
+ eqdahospv
+dsaf i
+bg=p
+]fds\l
+]df
+bp=wfrkn
+kjgfr
+hbikjd
+nb jgfsodp-
+jfdsuhb9
+0]aoifd ujsegds
+bgodraujfg9i ujb
+eda8i0rg ujb9i0d ujhg
+-ujb
+eqa-d ugrjjhvfr9oi0q ugt
+ugugugf9wiufj
+gv0-d ikf[=o 9o-r
+g9ufdsa;l'ce
+R3UYW-=
+OLEQW
+FS[DLPBGK
+SDGVKP
+]SDL[]Vs
+[fdkvjm
+'FDM
+O[JBK
+FDSOLAP
+]kfds
+kjbv]s[k,d
+o[jmbv
+fdsvo[sMVdnv j
+kdsPD;KMVPDSJNV
+[\kdspovfdsoi0]vfjds[\vfpokm|E;LFMVDJVCO[FMV;LKDSMNVPISJH
+VC[DSkjmvjv : The module 'lSKJMVSNdhbv' could not be loaded. For more information, run 'Import-Module lSKJMVSNdhbv'.
+At line:1 char:67
++ ... vjmn:L"NV\:MNsdbvjmc;lSKJMV"SNdhbv\poJNMKFDSHBJ FOI0]Q= 8BERHGV[=]Qwj
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (lSKJMVSNdhbv\po...SJH
+VC[DSkjmvjv:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CouldNotAutoLoadModule
+
+PS C:\Users\AL3WARD> 0o[k[s'djmvpi\\dsjv
+>> o[PKFDSJV
+>> P[SDKJMVCVJ
+>> P[DSKVMOLDSZJNV\H
+>> \P[SDAkjpivh\dsoivcj
+>> mvpoid\sjhvpo\jmnL|DSvmn\\zsjhvd
+>> {+KEFpekd
+>> v(_JV
+>> P\:MDSNVhzxc\d
+>> o[\jmvlsa\vdn[
+>> JMNVDSPZKhvx i]chjpo[jmdaovcjds
+>> 0-kjfmfcpi0dsajhv
+>> o[dsjmv;lsnvd icjh
+>> o[JMF JHXC
+>> O[LMNFAKSDixhcojmnf|hc9oj\EDAjvfodsjP
+>> {S"jmgnbvjpidsjv[lmvSAO{ZDJVkmDSAKMVp[\ODJVo[kjmvolDSJMPOIj
+>> \PO{Amnvdhpi\jmn:LVSDMNVP|ihPOIS|jmnvdolndIHV]\POjmnv|SDhvpi0uh]90oigvnAMNVDJ[
+>> oJFDSnhOL{M|:"VDSJNZ\P JH
+>> O[DSKJMV|
+>> H\VDngndsHV]\PODSjnbdsh
+>> |:LPIFDHVPO[VMFDSS[\LDAKGIJFMSIGV]\SDOJVMFWL"SNDIJHV
+>> P{}KMSP\IDHV
+>> 9-DSIKJF[':LWemgvpidsahvojmngv]\oJEKMF:"JHVD
+>> {|'mkeWDS0IJHVC
+>> P[]MNGVDS
+>> }jcmndsajmgNVDSh
+>> 0p[ekjmvdnbvcPIDSjvp
+>> ["0PI]JVM{"NVDSIjhO{KJM:LEDVNOI|Sholejmvf;ledsnv jh
+>> mgndspoijvfNIDAHnedkfWRS]\jm}UHF]\VFOPJMNEWV I]\DSJHV{|ngvHDSV]ni]svu mv04 9t7n4
+>> =v-3O[V8er imp[4cgoiyupk[fmvds9s
+>> =p[cjguYTVIUJRK
+>> P;PIFS]V90 8U
+>> =]LKR
+>> 6+9801
+>> EWC OU90UJPO\EFJD]8I0
+>>
+>> SUSASUS1
+>> FERUUU@YHAHOO.COM
+>> PIdsh fi0jdspo]jhdsf0]ivjhpodsjoivCDSUHJV]C\dsv[']oshdjvc
+>> o\JDNPOVFIDSH]VI0JHO[DSJMVPCD HJ] po\dsj9 uj0f
+>> [jgi0UEW
+>> -=FKO[E
+>> higdhvpodsj]cpdsk
+>> g9oih]FD0JOKSP
+>> [JVIh]\[daxm]8DSHPkfeO[JHDgslknh[98IFHJ\po[nfewr1j zo3 m]980e 9
+>> 0-9EW MX[]O JF0-08I]F
+>> 0f980=r
+>> -f pojh0KJRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR]JEQF9I0RMFDS0CJ;LFCQR OIMCHVAJlSKJMV"SNdhbv\poJNMKFDSHBJ FOI0]Q= 8BERHGV[=]Qwj
+>>
+>>
+>>
+>>
+>>
+>>
+>>  eqdahospv
+>> dsaf i
+>> bg=p
+>> ]fds\l
+>> ]df
+>> bp=wfrkn
+>> kjgfr
+>> hbikjd
+>> nb jgfsodp-
+>> jfdsuhb9
+>> 0]aoifd ujsegds
+>> bgodraujfg9i ujb
+>> eda8i0rg ujb9i0d ujhg
+>> -ujb
+>> eqa-d ugrjjhvfr9oi0q ugt
+>> `ugugugf9wiufj
+>> gv0-d ikf[=o 9o-r
+>> g9ufdsa;l'ce
+>> R`3UYW-=
+>> OLEQW
+>>
+>>
+>>
+>>
+>> FS[DLPBGK
+>> SDGVKP
+>> ]SDL[]Vs
+>> [fdkvjm
+>> 'FDM
+>> O[JBK
+>> FDSOLAP
+>> ]kfds
+>> kjbv]s[k,d
+>> o[jmbv
+>> fdsvo[sMVdnv j
+>> kdsPD;KMVPDSJNV
+>> [\kdspovfdsoi0]vfjds[\vfpokm|E;LFMVDJVCO[FMV;LKDSMNVPISJH
+>> VC["DSkjmvjv[p[ []18FDY MF903Q-=
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>> D"JHFCPO\SAJHVC]\DSJ{AJMNKD
+>> VCP{DSAkf[]akfcp
+>> []sajvcmo[dajo[KDSa[k,
+>> [dsajvfJP['SAJCKA;NVD PC|CSAolvfjpidhf 9ivp[ewckjoi[\S98FC MX
+>> jfrpcgw98f Y\P[EKCKDUYV Jrfl\RPOSGDF9 FPO[Qfpo\j]
+>>
+>>
+>>
+>>
+>>
+>> [P]WD JPOIajh8i0fh]WSOJ\[FODSJPOI80 ]F9OSJ\PK\H]\\joida8][
+>> -=[]0-R 9NY9VE IHG]980au
+>> 0=ife-=QL; mdpoi
+>> jh9fik
+>> WP]KGFPOwsjhd-f9iu
+>> F]pewjf980ihy]90vUJDO]]dhv9
+>> o[fUF
+>> =P0UJ90wuydfusbvkjDCMlks nv980w ur
+>> 0-o3j poif98u]hyv9 UJFD
+>> O[JFEhSDF;'\KG
+>> O[kds[]kvfADSH]I\[DSP VFPO[ds j
+>> wsep fsjvdpoJ
+>> PK[VF lbvpifdjho[vajms'JJIAUHDpiuSADGUYAPGPISGSISUIAACKMASON100M
+>> ]pdujs
+>> few
+>> V
+
+
